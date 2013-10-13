@@ -5,15 +5,24 @@ define([
   'backbone',
   'views/home/HomeView',
   'views/students/StudentsView',
-  'views/lecturers/LecturersView'
-], function($, _, Backbone, HomeView, StudentsView, LecturersView) {
+  'views/students/student/StudentView',
+  'views/lecturers/LecturersView',
+  'views/lecturers/lecturer/LecturerView',
+  'views/lectures/LecturesView',
+  'views/lectures/lecture/LectureView'
+
+], function($, _, Backbone, HomeView, StudentsView, StudentView, LecturersView, LecturerView, LecturesView, LectureView) {
   
   var AppRouter = Backbone.Router.extend({
     routes: {
       'students': 'showStudents',
       'lecturers': 'showLecturers',
+      'lectures' : 'showLecturesList',
       // Default
-      '*actions': 'defaultAction'
+      '': 'defaultAction',
+      'lecturers/:id': 'showLecturerById',
+      'students/:id' : 'showStudentById',
+      'lectures/:id' : 'showLectureById'
     }
   });
   
@@ -26,10 +35,30 @@ define([
         studentsView.render();
     });
 
+    app_router.on('route:showStudentById', function (id) {
+        var studentView = new StudentView({id : id});
+        studentView.render();
+    });
+
     app_router.on('route:showLecturers', function () {
         var lecturersView = new LecturersView();
         lecturersView.render();
     });
+
+    app_router.on('route:showLecturerById', function (id) {
+        var lecturerView = new LecturerView({id : id});
+        lecturerView.render();
+    });
+
+    app_router.on('route:showLecturesList', function () {
+        var lecturesView = new LecturesView();
+        lecturesView.render();
+    });
+
+    app_router.on('route:showLectureById', function (id) {
+        var lectureView = new LectureView({id : id});
+        lectureView.render();
+    }); 
 
     app_router.on('route:defaultAction', function (actions) {
      

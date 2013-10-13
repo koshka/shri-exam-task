@@ -1,0 +1,12 @@
+<div class="main">
+	<h1> <%= lecturer["name"] %> </h1></br>
+	<div><%= lecturer["about"] %> </div></br>
+	<div style="-webkit-column-count:2;
+				-webkit-column-gap:10px;">
+	<h2>Лекции</h2>
+	<% _.each(lecturer["all_lectures"], function(item){ %>
+   		<div><a href="<%= item["url"] %>"><%= item["name"] %></a></div>
+    <% }); %>
+    	<img src="<%= lecturer["photo_url"] %>" style="width:70%;">
+	</div>
+</div>
