@@ -1,13 +1,16 @@
 <div class="main">
-	<h1> <%= student["first_name"] %> <%= student["last_name"] %></h1></br>
-	<div style="font-weight: bold;"><%= student["city"] %> </div></br>
-	<div><a href="<%= student["link_facebook"]%>">Facebook</a></div>
-	<div><a href="<%= student["link_vk"]%>">Вконтакте</a></div>
-	<div><a href="<%= student["link_gihub"]%>">Github</a></div>
-	<div><a href="<%= student["link_yaru"]%>">Ya.ru</a></div>
-   	<div style="-webkit-column-count:2;
-				-webkit-column-gap:10px; width: 800px;">
-	    <img src="<%= student["link_photo"] %>" style="width:70%;margin:20px;">
-		<div><%= student["about"] %> </div></br>
+	<div class="student-info">
+		<h1> <%= student["first_name"] %> <%= student["last_name"] %></h1></br>
+		<div class="student-city" style="font-weight: bold;"><%= student["city"] %> </div></br>
+		<div class="student-links">
+			<div><a href="<%= student["link_facebook"]%>">Facebook</a></div>
+			<div><a href="<%= student["link_vk"]%>">Вконтакте</a></div>
+			<div><a href="<%= student["link_gihub"]%>">Github</a></div>
+			<div><a href="<%= student["link_yaru"]%>">Ya.ru</a></div>
+		</div>
+	   	<div class="student-about-and-photo" style="width: 800px;">
+		    <img src="<%= student["link_photo"] %>" style="width:70%;margin:20px;">
+			<div class="about"><%= student["about"] %> </div></br>
+		</div>
 	</div>
 </div>
