@@ -6,7 +6,8 @@ require.config({
     backbone: 'libs/backbone/backbone-min',
     templates: '../templates',
     studentsdata: 'json/students',
-    lecturersdata: 'json/lecturers'
+    lecturersdata: 'json/lecturers',
+    lectureslist: 'json/lectureslist'
   }
 
 });

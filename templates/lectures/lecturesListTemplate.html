@@ -1,0 +1,5 @@
+<% _.each(lectures, function(lecture){ %>
+<div class="lecture">
+<a href="#/lectures/<%= lecture.get("id")%>"><%= lecture.get("name") %></a>
+</div></br>
+<% }); %>   
