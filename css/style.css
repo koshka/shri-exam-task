@@ -59,7 +59,8 @@ p:first-letter {
     width: 800px;
 }
 
-#students-list, #lecturers-list, #lectures-list {
+#students-list, #lecturers-list, #lectures-list,
+.student-about-and-photo, .lecturer-photo-and-lectures {
   -moz-column-count:2; /* Firefox */
   -webkit-column-count:2; /* Safari and Chrome */
   column-count:2;
@@ -67,4 +68,3 @@ p:first-letter {
   -webkit-column-gap:10px;
   column-gap:10px;
 }
-
