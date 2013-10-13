@@ -1,4 +1,4 @@
-  lectureslist = [
+lectureslist = [
     {
       "id":35,
       "lector_id":188,

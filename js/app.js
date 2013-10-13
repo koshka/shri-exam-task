@@ -1,4 +1,3 @@
-// Filename: app.js
 define([
   'jquery', 
   'underscore', 
