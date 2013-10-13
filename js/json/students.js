@@ -1,5 +1,4 @@
-studentsdata = 
-[
+studentsdata = [
   {
     "id":1,
     "first_name":"Никита",

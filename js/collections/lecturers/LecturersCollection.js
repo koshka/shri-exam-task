@@ -4,11 +4,11 @@ define([
   'backbone',
   'models/lecturer/LecturerModel',
   'lecturersdata'
-], function($, _, Backbone, LecturerModel){
+],  function($, _, Backbone, LecturerModel){
 
-       var LecturersCollection = Backbone.Collection.extend({
+        var LecturersCollection = Backbone.Collection.extend({
             model: LecturerModel
       });
  
-  return LecturersCollection;
+    return LecturersCollection;
 });
