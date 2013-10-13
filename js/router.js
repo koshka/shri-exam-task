@@ -14,11 +14,10 @@ define([
   
   var AppRouter = Backbone.Router.extend({
     routes: {
-      'students': 'showStudents',
-      'lecturers': 'showLecturers',
-      'lectures' : 'showLecturesList',
-      // Default
-      '': 'defaultAction',
+      'students'     : 'showStudents',
+      'lecturers'    : 'showLecturers',
+      'lectures'     : 'showLecturesList',
+      ''             : 'defaultAction',
       'lecturers/:id': 'showLecturerById',
       'students/:id' : 'showStudentById',
       'lectures/:id' : 'showLectureById'
@@ -35,7 +34,7 @@ define([
     });
 
     app_router.on('route:showStudentById', function (id) {
-        var studentView = new StudentView({id : id});
+        var studentView = new StudentView( {id : id} );
         studentView.render();
     });
 
@@ -45,7 +44,7 @@ define([
     });
 
     app_router.on('route:showLecturerById', function (id) {
-        var lecturerView = new LecturerView({id : id});
+        var lecturerView = new LecturerView( {id : id} );
         lecturerView.render();
     });
 
@@ -55,7 +54,7 @@ define([
     });
 
     app_router.on('route:showLectureById', function (id) {
-        var lectureView = new LectureView({id : id});
+        var lectureView = new LectureView( {id : id} );
         lectureView.render();
     }); 
 

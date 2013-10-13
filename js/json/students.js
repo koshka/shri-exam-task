@@ -6,10 +6,11 @@ studentsdata = [
     "city":"Санкт-Петербург",
     "about":"Привет! Меня зовут Никита.\n\nВ детстве я хотел быть пожарным. Потом хотел быть дрессировщиком в цирке. Но годам примерно к десяти определился, что хочу быть программистом, как папа. Ну как определился, по-моему мне просто не оставили выбора. В мои 12 лет мы с папой писали тетрис на FoxPro 2.0. Потом был университет, матан, C#, .NET, работа в банке.\n\nПотом был Питер, там меня подсадили на Смолток. На нем мы писали наши вертолетные и самолетные тренажеры. Тренажер — это кабина настоящего, скажем, вертолета Ми-17. Она установлена внутри белой сферы, на которой восемью проекторами рисуется панорамный вид за окнами, в 3D. И все это стоит на платформе подвижности с пневматическими ногами.\n\nВосемь серверов в реальном времени считают динамику полета и имитируют работу всех систем вертолета, еще восемь серверов рисуют графику. Вся логика работает на смолтоке. Меня спрашивали, жив ли смолток сейчас. Так вот, очень даже жив.\n\nРабота была хорошая, интересная. Но я к тому моменту уже давно интересовался интерфейсами и юзабилити, а интерфейс нашего тренажера оставлял желать лучшего. И менять его было не очень нужно, потому что это не массовый продукт. Новым пользователям (обычно летным инструкторам — дядькам лет пятидесяти) выдавали инструкцию по пользованию и как бы неудобно там все ни было, делай по инструкции: будет работать.\n\nТак что я читал книжки по дизайну, по ночам рисовал красивые картинки в фотошопе, участвовал в конференциях, у нас даже был свой образовательный проект о UX-проектировании, назвался Experiemint. Но все равно заниматься этим в свободное время было недостаточно. Поэтому в декабре прошлого года я уволился, уехал в теплые края, где тепло и дешево (в отличие от Питера) и на несколько месяцев погрузился в мир веба. С тех пор не выныривал.\n\nЯ верю, что чтобы делать современные веб-приложения, не достаточно быть только веб-дизайнером или только фронтэнд-разработчиком. Надо уметь и то, и другое. Неудобно, когда дизайнер рисует картинку в фотошопе, а потом объясняет разработчику, что при наведении сюда вот это двигается на три пикселя вот сюда, а вот это наколняется, а вот тут параллакс... Здорово, когда это делает один человек. См. например The Verge. У них дизайн нельзя отделить от программирования.\n\nДедушка Джобс говорил:\n\nMost people make the mistake of thinking design is what it looks like. That’s not what we think design is. It’s not just what it looks like and feels like. Design is how it works.\n\nЯ пришел в ШРИ, чтобы научиться не рисовать дизайн, а делать его, заставлять страницу работать так, как нужно мне. Чтобы привести в порядок свои знания (я же самоучка, в голове каша) и получить новые. Чтобы общаться с людьми, которые делают то же, что и я, и учиться у них. Пока все это получается и наша школа меня очень радует. Спасибо организаторам, все клево :)",
     "link_photo":"http://cs408530.vk.me/v408530792/1e45/XISCuQa83W4.jpg",
-    "link_facebook":"facebook.com/popov.nikita",
-    "link_vk":"vk.com/nikita.v.popov",
-    "link_gihub":"github.com/losnikitos",
-    "link_yaru":"losnikitos123.ya.ru"
+    "link_facebook":"https://facebook.com/popov.nikita",
+    "link_vk":"http://vk.com/nikita.v.popov",
+    "link_gihub":"https://github.com/losnikitos",
+    "link_yaru":"http://losnikitos123.ya.ru",
+    "link_photo_min": "https://downloader-default2j.disk.yandex.ru/rdisk/df43a708c37728af3e1b755b4cf05746/mpfs/p5c-zVGypYYv2wOXl-7v-Iq-V222hg4MYV74bbp7t2NWSYbiCm9ycwZVwWOVqY3RSxMlIMJU0f63YtiDPgKoaw==?uid=0&filename=1.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=2a5a51cb885645bc6927330f92ed24db&rtimestamp=525b043a"
   },
   {
     "id":2,
@@ -21,7 +22,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"http://vk.com/id3776751",
     "link_gihub":"https://github.com/Romanaldo/",
-    "link_yaru":"http://ctuxu-r.ya.ru/"
+    "link_yaru":"http://ctuxu-r.ya.ru/",
+    "link_photo_min": "https://downloader-default8m.disk.yandex.ru/rdisk/484c5ef880f304fbafff64f48d35ec62/mpfs/qEq2UhqYIYAZgOj_WFlcuP6IfQ00I0kVfqT9UX4Rz7RtwRUfv_a3L83QsmJMQAa1tOj-Igxj0iK9XPg4AmKErw==?uid=0&filename=2.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=3ef2ae30dd9747f5deedc2e4c778cad4&rtimestamp=525b04ed"
   },
   {
     "id":3,
@@ -33,7 +35,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/1uckytrue",
     "link_vk":"https://vk.com/luckytrue",
     "link_gihub":"https://github.com/LuckyTrue",
-    "link_yaru":"http://luckytrue.ya.ru/"
+    "link_yaru":"http://luckytrue.ya.ru/",
+    "link_photo_min": "https://downloader-default13h.disk.yandex.ru/rdisk/96f0fb12215727de6aefec34b6ef64fb/mpfs/oarcFGh6i575IvP1qUS_sNLBchB13MP5p6ZfKA7bZUm55VyZZ77by4x20kf093Yao-jwvSR1dvCHPag6QvlzUw==?uid=0&filename=3.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=034ebb396f0c5c5eb00c855ca2dd3ca0&rtimestamp=525b0531"
   },
   {
     "id":4,
@@ -45,7 +48,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"vk.com/dales3d",
     "link_gihub":"github.com/maxim-popkov/",
-    "link_yaru":"dales3d.ya.ru/"
+    "link_yaru":"dales3d.ya.ru/",
+    "link_photo_min": "https://downloader-default7j.disk.yandex.ru/rdisk/ce9f9da8f056ba4f8476bca5de40ac83/mpfs/HWo4U7_MsyjRzcV_JVyx-FdRMTxckwkGndsMHALtABDsTmSmz9eC0u-TeT005tEQomvDqMaNmd_s2LUnNe4thA==?uid=0&filename=4.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=065f6427480d8b0cbadd6d62c4e56f93&rtimestamp=525b0540"
   },
   {
     "id":5,
@@ -57,7 +61,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/ololobus",
     "link_vk":"https://vk.com/ololoshkiiii",
     "link_gihub":"https://github.com/ololobus",
-    "link_yaru":"http://alex-ololo.ya.ru/"
+    "link_yaru":"http://alex-ololo.ya.ru/",
+    "link_photo_min": "https://downloader-default3m.disk.yandex.ru/rdisk/9c2f373164167869d258d83c0d9f3bd3/mpfs/7LtNYcV028qiMNcIm1Aq1BPrJzW0kfWfQsCw1-TwWl6Hjsr1ZDdAOAILymkjf3b5yGh7Y5Tue-g8g8DwAFgjxQ==?uid=0&filename=5.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=692dbd1898db1041bc5e9e7f1e14dab9&rtimestamp=525b0561"
   },
   {
     "id":6,
@@ -69,7 +74,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/mikhail.shust.5",
     "link_vk":"http://vk.com/saintpchav",
     "link_gihub":"https://github.com/restrry",
-    "link_yaru":"http://restrry.ya.ru/"
+    "link_yaru":"http://restrry.ya.ru/",
+    "link_photo_min": "https://downloader-default1m.disk.yandex.ru/rdisk/37b0e8662fdf8739dc831f9b29a72c18/mpfs/JYD_Ju9AnE9Naw7eOm7xDOcHbKz6Joa5WqyDue8Ot72oc2WMIIZYtPGoXD4QjNw8AbZtkvEV0njWPBEXXdhuzQ==?uid=0&filename=6.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=63e9c9ed9fd37d62cf615ac55d32fc21&rtimestamp=525b0582"
   },
   {
     "id":7,
@@ -81,7 +87,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/maxvektor",
     "link_vk":"http://vk.com/kotsievsky",
     "link_gihub":"https://github.com/Kocijevsky",
-    "link_yaru":"http://m-kocijevsky.ya.ru/"
+    "link_yaru":"http://m-kocijevsky.ya.ru/",
+    "link_photo_min": "https://downloader-default13m.disk.yandex.ru/rdisk/fc2ff96e866927f4f2e5dc151ecafe57/mpfs/baNgSCZWaSWNaAWHisPYJ66nYt2UnGXTe6YtpPWRiwsImmnilPB3efUyXL-LAol6tUSWBu8HL41MDtrI7p0h-g==?uid=0&filename=7.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=bd2542fe995731ba54b47b7d1fbad13a&rtimestamp=525b05a7"
   },
   {
     "id":8,
@@ -93,7 +100,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/prosto42",
     "link_vk":"http://vk.com/prosto_koshka",
     "link_gihub":"https://github.com/koshka",
-    "link_yaru":"http://kotia292007.ya.ru/"
+    "link_yaru":"http://kotia292007.ya.ru/",
+    "link_photo_min": "https://downloader-default10m.disk.yandex.ru/rdisk/3515fcc4852192b73ef52614e8ab06e9/mpfs/RRDvL5WfpTESIMQeFwbCP4MXWPVrZQObLJ37ynzUBR89AiZMjyTfuPeOhVsdZvnZ3CfxcOpTH1xHzpljwJD7YQ==?uid=0&filename=8.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=ff88d6715f85c82aaff1a8289dddd5f5&rtimestamp=525b05c4"
   },
   {
     "id":9,
@@ -105,7 +113,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"",
     "link_gihub":"https://github.com/Unlocker",
-    "link_yaru":"http://hakerxnet.ya.ru/"
+    "link_yaru":"http://hakerxnet.ya.ru/",
+    "link_photo_min": "https://downloader-default12j.disk.yandex.ru/rdisk/685fc1480c1ec34b48027793ad17d2b8/mpfs/mKaPRxmWtBXKlL18gSeJ4jfDq8nU5HwKfBCFPI5Tz6ZuXdN0oHlQTppxAMMErZDJ4VDtL5OzdYMW7lQJ389CDA==?uid=0&filename=9.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=d0b21a2202b26b23f1e7a15b8cb50497&rtimestamp=525b05dd"
   },
   {
     "id":10,
@@ -117,7 +126,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/sofiushko",
     "link_vk":"http://vk.com/sonja",
     "link_gihub":"https://github.com/sofiushko",
-    "link_yaru":"http://artsonja.ya.ru/"
+    "link_yaru":"http://artsonja.ya.ru/",
+    "link_photo_min": "https://downloader-default10j.disk.yandex.ru/rdisk/0946163e5bed4182c16e72029a350a91/mpfs/OX8f2PvuTQgzuP1o13yWv9AGnObJ5bIs0NIIY1YGWpvZDYjogImhUj_aYdWKJ7rGZcJtviO4NWvKH458sTVRtQ==?uid=0&filename=10.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=098392428b1a9b55ded9f6c7476e6e69&rtimestamp=525b0628"
   },
   {
     "id":11,
@@ -129,7 +139,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/nataliasmirnova.natalia",
     "link_vk":"http://vk.com/id24213991",
     "link_gihub":"https://github.com/indra-uolles",
-    "link_yaru":"http://indra-uolles.ya.ru/"
+    "link_yaru":"http://indra-uolles.ya.ru/",
+    "link_photo_min": "https://downloader-default5h.disk.yandex.ru/rdisk/66f16215e28a2c7915f6a4cadb883139/mpfs/aEhYy2D9xGvNaMVsad0iNKE3tZPIHEqQWj_qPYUWWhdytLxhEBZhUexZk_b6JxC6Qqptwp6esyO04545RWu0zg==?uid=0&filename=11.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&rtoken=b2a347c9bd4c427cd8f6fc9f7538a13e&rtimestamp=525b0641"
   },
   {
     "id":12,
@@ -141,7 +152,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/pmyagkov",
     "link_vk":"http://vk.com/muelle",
     "link_gihub":"https://github.com/pmyagkov",
-    "link_yaru":"http://p-a-myagkov.ya.ru/"
+    "link_yaru":"http://p-a-myagkov.ya.ru/",
+    "link_photo_min": "https://downloader-default8h.disk.yandex.ru/rdisk/3c323797410d386367a00dc3c53aad1a/mpfs/04XSC2CPKG6iR3V1LdH3I_yOoRJuxG2MJwKPgvY6IXBvbgUvqFSMCdnObu6oP_Y6tYCJlb2c61QroEWHqjfeTQ==?uid=0&filename=12.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=3009bbac8834e57f02c3783c7647f791&rtimestamp=525b06cc"
   },
   {
     "id":13,
@@ -153,7 +165,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"",
     "link_gihub":"",
-    "link_yaru":""
+    "link_yaru":"",
+    "link_photo_min": "https://downloader-default10j.disk.yandex.ru/rdisk/b4e27ece5f5cd1deeee456edd833eb66/mpfs/hYtf3vSxMNDDp-8ZuTn1jH1JYN-ZC5NxVa6ETsaGpQykWvdAbsH_W8dvzwZ1JtAYq_J6bpmRyOJonT3VoXnDag==?uid=0&filename=13.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=36de81049ea34799cac9aec53dda6217&rtimestamp=525b06e5"
   },
   {
     "id":14,
@@ -165,7 +178,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/garret.rus",
     "link_vk":"http://vk.com/id3157005",
     "link_gihub":"https://github.com/4eb0da",
-    "link_yaru":"garret-rus.ya.ru/"
+    "link_yaru":"garret-rus.ya.ru/",
+    "link_photo_min": "https://downloader-default6m.disk.yandex.ru/rdisk/979b43960d3267b33e131ef3fdbea8e9/mpfs/giWRPHdhkFB9k4kdwUIVG4MXWPVrZQObLJ37ynzUBR_4hMwLQsxwtSHOO9UqB1LdW6L5Vu4P-NU4UjAhEdkFow==?uid=0&filename=14.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=f3f5373202e5b0cb358c1f6c0b897058&rtimestamp=525b0709"
   },
   {
     "id":15,
@@ -177,7 +191,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"",
     "link_gihub":"https://github.com/DimitryDushkin",
-    "link_yaru":"http://legato-di.ya.ru/"
+    "link_yaru":"http://legato-di.ya.ru/",
+    "link_photo_min": "https://downloader-default14m.disk.yandex.ru/rdisk/c72ff4fc8bece2ed672a322c6e4fa1ed/mpfs/Wy3hp0Fr-cgAAn0gRJjFenuuLiTVxHEBbH-78YpaGkwBpZlZJ0suSnptXbt3LZbUJfIyUg3S2bRhSI6I5hsC9A==?uid=0&filename=15.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=7d2f42d26b128c1922d22f646a39b0c3&rtimestamp=525b0721"
   },
   {
     "id":16,
@@ -189,7 +204,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/rainybowls",
     "link_vk":"",
     "link_gihub":"https://github.com/rainybowl",
-    "link_yaru":"http://rainybowl.ya.ru/"
+    "link_yaru":"http://rainybowl.ya.ru/",
+    "link_photo_min": "https://downloader-default8j.disk.yandex.ru/rdisk/3ff3abac2178284de274aac22155688a/mpfs/L8csRqQ2te9YelgISC7MCtnMYV3xVzBccn7ByvXA9ILdw8TsGSsinzliTgVASqMIRIjnnWCUpjs3VcJUPRqspQ==?uid=0&filename=16.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=a0a81a236e21b4d4680448218533ae19&rtimestamp=525b0735"
   },
   {
     "id":17,
@@ -201,7 +217,8 @@ studentsdata = [
     "link_facebook":"http://www.facebook.com/eugeshko",
     "link_vk":"http://vk.com/eugeshko",
     "link_gihub":"https://github.com/eugeshko",
-    "link_yaru":"http://eugeshko.ya.ru/"
+    "link_yaru":"http://eugeshko.ya.ru/",
+    "link_photo_min": "https://downloader-default6m.disk.yandex.ru/rdisk/04fe902940efa98f309138f0011d902b/mpfs/xfSLFSV8dsU3CvfMvs-T4agh__E6yRY3NN22v8ezgHQoiBmxSldeVYS9Lm3eu_PvhouAZobO-uPUJEh6zlRsCQ==?uid=0&filename=17.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=c2f3da538d2484c44db2044fe299f1cb&rtimestamp=525b0746"
   },
   {
     "id":18,
@@ -213,7 +230,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"http://vk.com/id209848299",
     "link_gihub":"https://github.com/MaHTuCCa",
-    "link_yaru":"http://akimovamp.ya.ru/"
+    "link_yaru":"http://akimovamp.ya.ru/",
+    "link_photo_min": "https://downloader-default12h.disk.yandex.ru/rdisk/0f613481060e91dd12ddf511d323495a/mpfs/p3B6me6UMcGQMG76iJdDUceGjvASjqqmUOsXhdMHuh9lxzikRx7T1nvrMeI5tScZFDTz_vxSb2r2QZ5W0GEmVA==?uid=0&filename=18.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=5f4ce866a766eb1d45fe6b8c60eaecc2&rtimestamp=525b0758"
   },
   {
     "id":19,
@@ -225,7 +243,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"https://vk.com/askhat",
     "link_gihub":"https://github.com/geromond",
-    "link_yaru":"http://geromond.ya.ru/"
+    "link_yaru":"http://geromond.ya.ru/",
+    "link_photo_min": "https://downloader-default1m.disk.yandex.ru/rdisk/fad95406246fa7862b34a9fb1515b24b/mpfs/84N1oehURBwHN9Mwdbal24kdt8JX_fxQD8-f1CFA8J3iEOtxPxfY2QFp1TLMnuPxQ_8Ir-NNWmazYWmKvkReNw==?uid=0&filename=19.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=1afb2c11ed6d8d48d9b89e2ea2aaa5c6&rtimestamp=525b076f"
   },
   {
     "id":20,
@@ -237,7 +256,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/iamfoont",
     "link_vk":"http://vk.com/merzavcev",
     "link_gihub":"https://github.com/merzavcev",
-    "link_yaru":"http://iamfoont.ya.ru/"
+    "link_yaru":"http://iamfoont.ya.ru/",
+    "link_photo_min": "https://downloader-default3m.disk.yandex.ru/rdisk/6667ccf8d9cabf79bee21e06a1c9f991/mpfs/GgvcgBFeLAUYWfs_C4LF-mpbb_QJWbs0UEiqbMZOhRCIIm-4yKQr2bPuWNvRkFjslywDsYBndY72wTBAjZY3Lg==?uid=0&filename=20.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=2606e170d013c9a3e562068a8081b6c7&rtimestamp=525b0787"
   },
   {
     "id":21,
@@ -249,7 +269,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/yana.manukhina",
     "link_vk":"http://vk.com/id1868886",
     "link_gihub":"https://github.com/yanenok/",
-    "link_yaru":"http://yanenok.ya.ru/"
+    "link_yaru":"http://yanenok.ya.ru/",
+    "link_photo_min": "https://downloader-default7h.disk.yandex.ru/rdisk/4bf4e320884d6fba4551a5fbffb5b1cf/mpfs/m_-s-zn3dJfvLadtwx0yB8AbOVuClqBmJHpIqbh7eHpmhlhsPEwT_6AzohJz-sFDuPBdSUItml9-tVZzqxm9Gw==?uid=0&filename=21.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=2a47c9fa7edf0aa836276037f27bc9bc&rtimestamp=525b0799"
   },
   {
     "id":22,
@@ -261,7 +282,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"http://vk.com/maxim.myalin",
     "link_gihub":"https://github.com/hungrymarvin",
-    "link_yaru":"http://maximmyalin.ya.ru/"
+    "link_yaru":"http://maximmyalin.ya.ru/",
+    "link_photo_min": "https://downloader-default11m.disk.yandex.ru/rdisk/8819747efd338487bcaf5c8d26c6d98b/mpfs/mSGkpBxpVaRDqAIm-KmZjiV8I5MVrFOzYZGvUkoEglAmo4VFcg2Tb-7ORB4eC3gdX_RztDSGXDcvAj4Rz_c_pw==?uid=0&filename=22.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=2a5136dbe7ba48c713065191bed500ad&rtimestamp=525b07b3"
   },
   {
     "id":23,
@@ -273,7 +295,8 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"",
     "link_gihub":"",
-    "link_yaru":""
+    "link_yaru":"",
+    "link_photo_min": ""
   },
   {
     "id":24,
@@ -285,7 +308,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/profile.php?id=100001345209443",
     "link_vk":"http://vk.com/popitch",
     "link_gihub":"https://github.com/popitch",
-    "link_yaru":"http://popitch.ya.ru/"
+    "link_yaru":"http://popitch.ya.ru/",
+    "link_photo_min": "https://downloader-default14m.disk.yandex.ru/rdisk/a93ebd487caf1431f55180993ddf00cf/mpfs/mBDVorduTcf1aqzXt4kb0uxTLs60N8dHUeaKciZAAZcygUvAmb2prfpK2u52X9SfT3ax_S37ryyRj0t-r4XsCw==?uid=0&filename=24.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=10a8934a015b37d6b39131a782cc96e6&rtimestamp=525b07e4"
   },
   {
     "id":25,
@@ -297,7 +321,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/yeti.or",
     "link_vk":"http://vk.com/yeti_or",
     "link_gihub":"https://github.com/YetiOr",
-    "link_yaru":"http://my.yandex.ru/Yeti-or/"
+    "link_yaru":"http://my.yandex.ru/Yeti-or/",
+    "link_photo_min": "https://downloader-default5m.disk.yandex.ru/rdisk/93567de44c5b3ea3b16b147a7e6ba641/mpfs/TjfBR-0BFLn2zb47QWOZOwmEzn8rMw2cyiOFaBPAk-6aEOsgvbdLidD8DTRkV49sX8DFe7WJD4chcZ9NgBA52A==?uid=0&filename=25.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=81bfba813a54c82b5a48b636b2951472&rtimestamp=525b07de"
   },
   {
     "id":26,
@@ -309,7 +334,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/dmitry.pasechnik.169",
     "link_vk":"",
     "link_gihub":"https://github.com/incrop",
-    "link_yaru":"http://dee-starostin.ya.ru/"
+    "link_yaru":"http://dee-starostin.ya.ru/",
+    "link_photo_min": "https://downloader-default4h.disk.yandex.ru/rdisk/4f90d5b64d29f7e30297b998af1c7ddc/mpfs/s6Ub3e1vSqDdHhX7XEpOzQFoG6OlF0ncl17NZ_xWI-XxMQIuW08rkpWablOKGzaQoMQwo7kxAB8Z6ObYbsyMsQ==?uid=0&filename=26.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=c6353e23e4cceeb58f91816040e317c2&rtimestamp=525b080c"
   },
   {
     "id":27,
@@ -321,7 +347,8 @@ studentsdata = [
     "link_facebook":"--",
     "link_vk":"--",
     "link_gihub":"https://github.com/vasyan",
-    "link_yaru":"http://vasilyator9000.ya.ru/"
+    "link_yaru":"http://vasilyator9000.ya.ru/",
+    "link_photo_min": "https://downloader-default1j.disk.yandex.ru/rdisk/f6c3fc1f069790c5119ea89d156bc12a/mpfs/paMxBljoQMREj3PoL7z-1BPrJzW0kfWfQsCw1-TwWl78uCnoguqHmUZ_VUSO6pLulDjj29JPVNA5teOZ72qTFQ==?uid=0&filename=27.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=fbf98b02730ce595b1e1b6b1dce06dda&rtimestamp=525b081f"
   },
   {
     "id":28,
@@ -333,7 +360,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/arminename",
     "link_vk":"http://vk.com/paglevanyan",
     "link_gihub":"https://github.com/arminename",
-    "link_yaru":"http://paglevanian.ya.ru/"
+    "link_yaru":"http://paglevanian.ya.ru/",
+    "link_photo_min": "https://downloader-default3j.disk.yandex.ru/rdisk/15a7a0316f3c7d1bf466604429c1842c/mpfs/rafd8OdXhSPhAV4gNiggOtM9f2hFLrZNOuwfTk6p96dhcpaJmqSKqTrsuX8qzayRAVJis0v4hREeptyD_4MsTg==?uid=0&filename=28.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=5dfa2fc534b4b7bcacf0db7315a018bc&rtimestamp=525b0837"
   },
   {
     "id":29,
@@ -345,7 +373,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/isnifee",
     "link_vk":"http://vk.com/isnifer",
     "link_gihub":"http://github.com/isnifer",
-    "link_yaru":"http://isnifer.ya.ru/"
+    "link_yaru":"http://isnifer.ya.ru/",
+    "link_photo_min": "https://downloader-default3j.disk.yandex.ru/rdisk/66904bdba909883dd2321eb58c7ef96a/mpfs/RmyQRu6bwqlVLAiaCi44YXM224dMUhFHGqWFamQqpexBc2NHi80f2H3YWG7zHtV01wNrjVt6SFFjU0h58OLO0A==?uid=0&filename=29.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=73777e0ccddb5466c4c5447643b0db63&rtimestamp=525b0871"
   },
   {
     "id":30,
@@ -357,7 +386,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/mikhail.mokrushin",
     "link_vk":"http://vk.com/mishk0_m",
     "link_gihub":"https://github.com/mishk0",
-    "link_yaru":"http://mokrushin-mikhail.ya.ru"
+    "link_yaru":"http://mokrushin-mikhail.ya.ru",
+    "link_photo_min": "https://downloader-default2j.disk.yandex.ru/rdisk/9bbbeda3f599ca16144d65781179a273/mpfs/VpkMiMEVm7ZaE31Zs7G9-Q-EmJCQpzwEATxRQrdk1qFmUWxoqVje3ElpQLmNqhUC3QR-6lXYVW--GS9CQOLUeQ==?uid=0&filename=30.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=a19543b6a2f1b1830bb5ac3737d3aa86&rtimestamp=525b0866"
   },
   {
     "id":31,
@@ -369,7 +399,8 @@ studentsdata = [
     "link_facebook":"https://www.facebook.com/profile.php?id=100001765428961",
     "link_vk":"http://vk.com/id108239190",
     "link_gihub":"https://github.com/phpprog",
-    "link_yaru":"http://pskucherov.ya.ru/"
+    "link_yaru":"http://pskucherov.ya.ru/",
+    "link_photo_min": "https://downloader-default13j.disk.yandex.ru/rdisk/411ddd3ae921f8e212f44e4a9bdd611e/mpfs/84N1oehURBwHN9Mwdbal2zF_UAiGYYMBkmCnQBiBfFZLXpq5IFh__8wjGWFf7o6-XU1QLPOWNykO_MHicGHx_A==?uid=0&filename=31.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=3260a8386999dc18fae5cd2e7434956b&rtimestamp=525b088f"
   },
   {
     "id":32,
@@ -381,6 +412,7 @@ studentsdata = [
     "link_facebook":"",
     "link_vk":"http://vk.com/korolev.andrey",
     "link_gihub":"https://github.com/koroandr",
-    "link_yaru":"http://korolandr.ya.ru"
+    "link_yaru":"http://korolandr.ya.ru",
+    "link_photo_min": "https://downloader-default3j.disk.yandex.ru/rdisk/6e94607f5b1d33fc320f430e4d4df2a3/mpfs/lL0b-jZlOgwNRkirCgqVwd8RoGBIxg2L7rJlTXqINOmo1I-G2WUMG4hqlDZYWf1udRAI6aB9AMJb8uIBfw0crQ==?uid=0&filename=32.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&rtoken=633d0aea00490c166ed00792fd045bb8&rtimestamp=525b08a7"
   }
 ]
