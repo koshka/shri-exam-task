@@ -1,5 +1,7 @@
-studentsdata = [
+studentsdata = 
+[
   {
+    "id":1,
     "first_name":"Никита",
     "last_name":"Попов",
     "city":"Санкт-Петербург",
@@ -11,6 +13,7 @@ studentsdata = [
     "link_yaru":"losnikitos123.ya.ru"
   },
   {
+    "id":2,
     "first_name":"Роман",
     "last_name":"Орловский",
     "city":"Нижний Новгород",
@@ -22,6 +25,7 @@ studentsdata = [
     "link_yaru":"http://ctuxu-r.ya.ru/"
   },
   {
+    "id":3,
     "first_name":"Андрей",
     "last_name":"Морозов",
     "city":"Ставрополь",
@@ -33,6 +37,7 @@ studentsdata = [
     "link_yaru":"http://luckytrue.ya.ru/"
   },
   {
+    "id":4,
     "first_name":"Максим",
     "last_name":"Попков",
     "city":"Балашиха",
@@ -44,6 +49,7 @@ studentsdata = [
     "link_yaru":"dales3d.ya.ru/"
   },
   {
+    "id":5,
     "first_name":"Алексей",
     "last_name":"Кондратов",
     "city":"Москва",
@@ -55,6 +61,7 @@ studentsdata = [
     "link_yaru":"http://alex-ololo.ya.ru/"
   },
   {
+    "id":6,
     "first_name":"Михаил",
     "last_name":"Шустов",
     "city":"Санкт-Петербург",
@@ -66,6 +73,7 @@ studentsdata = [
     "link_yaru":"http://restrry.ya.ru/"
   },
   {
+    "id":7,
     "first_name":"Михаил",
     "last_name":"Коциевский",
     "city":"Одесса",
@@ -77,6 +85,7 @@ studentsdata = [
     "link_yaru":"http://m-kocijevsky.ya.ru/"
   },
   {
+    "id":8,
     "first_name":"Мария",
     "last_name":"Метелёва",
     "city":"Киров",
@@ -88,6 +97,7 @@ studentsdata = [
     "link_yaru":"http://kotia292007.ya.ru/"
   },
   {
+    "id":9,
     "first_name":"Сергей ",
     "last_name":"Максимов",
     "city":"Москва",
@@ -99,6 +109,7 @@ studentsdata = [
     "link_yaru":"http://hakerxnet.ya.ru/"
   },
   {
+    "id":10,
     "first_name":"София",
     "last_name":"Павленко",
     "city":"Москва",
@@ -110,6 +121,7 @@ studentsdata = [
     "link_yaru":"http://artsonja.ya.ru/"
   },
   {
+    "id":11,
     "first_name":"Наталия",
     "last_name":"Смирнова",
     "city":"Иркутск",
@@ -121,6 +133,7 @@ studentsdata = [
     "link_yaru":"http://indra-uolles.ya.ru/"
   },
   {
+    "id":12,
     "first_name":"Павел",
     "last_name":"Мягков",
     "city":"Москва",
@@ -132,6 +145,7 @@ studentsdata = [
     "link_yaru":"http://p-a-myagkov.ya.ru/"
   },
   {
+    "id":13,
     "first_name":"Сергей",
     "last_name":"Борончиев",
     "city":"Санкт-Петербург",
@@ -143,6 +157,7 @@ studentsdata = [
     "link_yaru":""
   },
   {
+    "id":14,
     "first_name":"Александр",
     "last_name":"Нефедов",
     "city":"Ярославль",
@@ -154,6 +169,7 @@ studentsdata = [
     "link_yaru":"garret-rus.ya.ru/"
   },
   {
+    "id":15,
     "first_name":"Дмитрий",
     "last_name":"Душкин",
     "city":"Электросталь",
@@ -165,6 +181,7 @@ studentsdata = [
     "link_yaru":"http://legato-di.ya.ru/"
   },
   {
+    "id":16,
     "first_name":"Анна",
     "last_name":"Минаева",
     "city":"Москва",
@@ -176,6 +193,7 @@ studentsdata = [
     "link_yaru":"http://rainybowl.ya.ru/"
   },
   {
+    "id":17,
     "first_name":"Евгения",
     "last_name":"Костенко",
     "city":"Москва",
@@ -187,6 +205,7 @@ studentsdata = [
     "link_yaru":"http://eugeshko.ya.ru/"
   },
   {
+    "id":18,
     "first_name":"Марина",
     "last_name":"Акимова",
     "city":"Москва",
@@ -198,6 +217,7 @@ studentsdata = [
     "link_yaru":"http://akimovamp.ya.ru/"
   },
   {
+    "id":19,
     "first_name":"Асхат",
     "last_name":"Нуриддинов",
     "city":"Москва",
@@ -209,6 +229,7 @@ studentsdata = [
     "link_yaru":"http://geromond.ya.ru/"
   },
   {
+    "id":20,
     "first_name":"Иван",
     "last_name":"Полюхович",
     "city":"Ярославль",
@@ -220,6 +241,7 @@ studentsdata = [
     "link_yaru":"http://iamfoont.ya.ru/"
   },
   {
+    "id":21,
     "first_name":"Яна",
     "last_name":"Манухина",
     "city":"Москва",
@@ -231,6 +253,7 @@ studentsdata = [
     "link_yaru":"http://yanenok.ya.ru/"
   },
   {
+    "id":22,
     "first_name":"Максим",
     "last_name":"Мялин",
     "city":"Зеленоград",
@@ -242,6 +265,7 @@ studentsdata = [
     "link_yaru":"http://maximmyalin.ya.ru/"
   },
   {
+    "id":23,
     "first_name":"",
     "last_name":"",
     "city":"",
@@ -253,6 +277,7 @@ studentsdata = [
     "link_yaru":""
   },
   {
+    "id":24,
     "first_name":"Сергей",
     "last_name":"Попов",
     "city":"Москва",
@@ -264,6 +289,7 @@ studentsdata = [
     "link_yaru":"http://popitch.ya.ru/"
   },
   {
+    "id":25,
     "first_name":"Василий",
     "last_name":"Логиневский",
     "city":"Москва",
@@ -275,6 +301,7 @@ studentsdata = [
     "link_yaru":"http://my.yandex.ru/Yeti-or/"
   },
   {
+    "id":26,
     "first_name":"Дмитрий",
     "last_name":"Старостин",
     "city":"Железнодорожный, Московская Область",
@@ -286,6 +313,7 @@ studentsdata = [
     "link_yaru":"http://dee-starostin.ya.ru/"
   },
   {
+    "id":27,
     "first_name":"Василий",
     "last_name":"Стяжкин",
     "city":"Москва",
@@ -297,6 +325,7 @@ studentsdata = [
     "link_yaru":"http://vasilyator9000.ya.ru/"
   },
   {
+    "id":28,
     "first_name":"Арменуи",
     "last_name":"Паглеванян",
     "city":"Пенза",
@@ -308,6 +337,7 @@ studentsdata = [
     "link_yaru":"http://paglevanian.ya.ru/"
   },
   {
+    "id":29,
     "first_name":"Антон",
     "last_name":"Кузнецов",
     "city":"Иваново",
@@ -319,6 +349,7 @@ studentsdata = [
     "link_yaru":"http://isnifer.ya.ru/"
   },
   {
+    "id":30,
     "first_name":"Михаил",
     "last_name":"Мокрушин",
     "city":"Ижевск",
@@ -330,6 +361,7 @@ studentsdata = [
     "link_yaru":"http://mokrushin-mikhail.ya.ru"
   },
   {
+    "id":31,
     "first_name":"Павел",
     "last_name":"Кучеров",
     "city":"Донецк",
@@ -339,5 +371,17 @@ studentsdata = [
     "link_vk":"http://vk.com/id108239190",
     "link_gihub":"https://github.com/phpprog",
     "link_yaru":"http://pskucherov.ya.ru/"
+  },
+  {
+    "id":32,
+    "first_name":"Андрей",
+    "last_name":"Королёв",
+    "city":"Москва",
+    "about":"Меня зовут Андрей Королёв, я родился и вырос в Москве.\n\nВ данный момент учусь на 5-м курсе ВМК МГУ, занимаюсь интеллектуальным анализом данных (то, что в цивилизованом обществе зовется data mining). Мы там делаем очень крутые штуки, например распознаем пользователей по тому, как они печатают.\n\nПрограммировать начал еще в бессознательном возрасте, когда папа показал мне, что такое Delphi. С тех пор Delphi я не люблю, но уважаю.\n\nВ веб-разработку пришел совершенно спонтанно. Терпеть ее не мог, если честно. Но на третьем курсе стало понятно, что пора искать какую-нибудь работу по специальности, и я устроился JAVA-разработчиком в ЛАНИТ (это такой большой и страшный системный интегратор). Там уже третий год пишу backend для высоконагруженных порталов. В общем-то, веб оказался не таким страшным, как я считал, и теперь я верю, что за ним будущее (ваш КО). \n\nС фронтендом не сталкивался очень долгое время, пока на той же работе не довелось занятся разработкой архитектуры front-части портала практически в одиночку, после чего очень проникся и захотел развиваться в этом направлении. Собственно, поэтому я и здесь!",
+    "link_photo":"http://img-fotki.yandex.ru/get/9328/165327839.0/0_b2de5_5e2c4fa1_L.jpg",
+    "link_facebook":"",
+    "link_vk":"http://vk.com/korolev.andrey",
+    "link_gihub":"https://github.com/koroandr",
+    "link_yaru":"http://korolandr.ya.ru"
   }
 ]
