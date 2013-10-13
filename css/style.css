@@ -2,7 +2,7 @@
   width: 960px;
   margin: auto;
   min-height: 500px;
-  background: #fff;
+  background-color: #FFFAF0;
 }
 #menu {
   background: #444;
@@ -31,10 +31,17 @@
    padding: 20px;
    font-size: 20px;
 }
-h1{
+h1 {
   padding: 0;
   font-family: 'Times New Roman', Times, serif;
   font-size: 250%;
+}
+h1:first-letter {
+  color: red;
+}
+
+p:first-letter {
+  color: red;
 }
 #page {
   min-height: 400px;
@@ -56,5 +63,15 @@ h1{
 .description {
     font-family: Verdana, Arial, Helvetica, sans-serif; 
     font-size: 11pt;
+    width: 800px;
 }
- 
+
+#students-list, #lecturers-list, #lectures-list {
+  -moz-column-count:2; /* Firefox */
+  -webkit-column-count:2; /* Safari and Chrome */
+  column-count:2;
+  -moz-column-gap:10px;
+  -webkit-column-gap:10px;
+  column-gap:10px;
+}
+

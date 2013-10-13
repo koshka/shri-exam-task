@@ -1,5 +1,7 @@
 <% _.each(lecturers, function(lecturer){ %>
 <div class="lecturer">
-<a href="#/lecturers/<%= lecturer.get("id")%>"><%= lecturer.get("name") %></br><img src="<%= lecturer.get("photo_url") %>" style="width:20%;"></a>
+	<p><%= lecturer.get("name") %></p>
+	<a href="#/lecturers/<%= lecturer.get("id")%>"></br><img src="<%= lecturer.get("photo_url") %>" style="width:20%;"></a>
+
 </div></br>
 <% }); %>   
